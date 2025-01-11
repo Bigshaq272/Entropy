@@ -52,4 +52,4 @@ This project is licensed under the MIT License. See the [MIT License](License) f
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
 ## Author
-LODGE Shaquille
+Shaquille
